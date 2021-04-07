@@ -1,0 +1,9 @@
+<svg role="img" viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg">
+	<title>
+		Medium icon
+	</title>
+	<circle cx="13" cy="13" r="13" fill="black" />
+	<circle cx="8.75" cy="13" r="4.6" fill="white" />
+	<ellipse cx="16.15" cy="13" rx="2.3" ry="4.3" fill="white" />
+	<ellipse cx="20.1" cy="13" rx="1.15" ry="4" fill="white" />
+</svg>
