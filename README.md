@@ -28,8 +28,7 @@
 
 <hr style="border-top: 3px solid #bbb;">
 
-<h3 align="left">Stuff I have experience with:</h3>
-<h6 align="left">Frameworks and Development Tools:</h6>
+<h4 align="left">Frameworks and Development Tools:</h4>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
@@ -86,6 +85,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
   </a>
 </p>
+
+<hr style="border-top: 3px solid #bbb;">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidepassafaro&show_icons=true&locale=en&layout=compact" alt="davidepassafaro" /></p>
 
