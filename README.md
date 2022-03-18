@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<hr style="border-top: 3px solid #bbb;">
+<hr>
 
 <h4 align="left">Languages:</h4>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -91,7 +91,7 @@
   </a>
 </p>
 
-<hr style="border-top: 3px solid #bbb;">
+<hr>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidepassafaro&show_icons=true&locale=en&layout=compact" alt="davidepassafaro" />
