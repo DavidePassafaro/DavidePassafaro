@@ -51,7 +51,7 @@
     <img src="https://plugins.jetbrains.com/files/15596/152746/icon/pluginIcon.svg" alt="stencil.js" width="40" height="40" />
   </a>
   <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40" />
+    <img src="https://appworksinc.com/wp-content/uploads/2019/08/ionic-logo.png" alt="ionic" width="40" height="40" />
   </a>
   
 <h4 align="left">Tools & Libraries:</h4>
