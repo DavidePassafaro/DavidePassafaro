@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Davide Passafaro</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
+<br/>
+
 - 🔭 I’m currently working on **ConTe.it**
 - 🌱 I’m currently learning **Nx and React**
 - 💬 Ask me about **Angular, Ionic, Stencil.js, RxJs and NgRx**
