@@ -1,7 +1,7 @@
 <!-- Initially made with: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 <h1 align="center">Hi 👋, I'm Davide Passafaro</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate frontend developer from Italy and a speaker of Angular Rome community</h3>
 
 <br/>
 
