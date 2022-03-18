@@ -72,7 +72,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
   </a>
-  <span style="padding-left: 20px;"></span>
+  <img src="https://www.transparenttextures.com/patterns/asfalt-light.png" width="20" height="40" />
   <a href="https://capacitorjs.com" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png" alt="capacitor" width="40" height="40" />
   </a>
@@ -91,6 +91,11 @@
 
 <hr style="border-top: 3px solid #bbb;">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidepassafaro&show_icons=true&locale=en&layout=compact" alt="davidepassafaro" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidepassafaro&show_icons=true&locale=en&layout=compact" alt="davidepassafaro" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidepassafaro&show_icons=true&locale=en" alt="davidepassafaro" /></p>
+<p>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidepassafaro&show_icons=true&locale=en" alt="davidepassafaro" />
+</p>
