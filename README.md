@@ -26,6 +26,8 @@
 </a>
 </p>
 
+<hr style="border-top: 3px solid #bbb;">
+
 <h3 align="left">Stuff I have experience with:</h3>
 <h6 align="left">Frameworks and Development Tools:</h6>
 <p align="left">
