@@ -3,16 +3,10 @@
 <h1 align="center">Hi 👋, I'm Davide Passafaro</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidepassafaro&label=Profile%20views&color=0e75b6&style=flat" alt="davidepassafaro" /> </p>
-
 - 🔭 I’m currently working on **ConTe.it**
 - 🌱 I’m currently learning **Nx and React**
 - 💬 Ask me about **Angular, Ionic, Stencil.js, RxJs and NgRx**
 - 📫 How to reach me **davide.passafaro@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 
