@@ -26,5 +26,5 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidepassafaro&show_icons=true&locale=en" alt="davidepassafaro" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidepassafaro&show_icons=true&locale=en&layout=compact" alt="davidepassafaro" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidepassafaro&show_icons=true&locale=en&layout=compact" alt="davidepassafaro" />
 </p>
