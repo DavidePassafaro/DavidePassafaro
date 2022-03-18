@@ -21,7 +21,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davide-passafaro" height="30" width="40" />
   </a>
   <a href="https://medium.com/@davidepassafaro" target="blank">
-    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" alt="@davidepassafaro" height="40" width="40" />
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" alt="@davidepassafaro" height="40" width="40" style="background: white; border-radius: 50%;" />
   </a>
   <a href="https://dev.to/davidepassafaro" target="blank">
     <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="davidepassafaro" height="40" width="40" />
