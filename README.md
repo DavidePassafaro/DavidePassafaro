@@ -32,6 +32,12 @@
   <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40" />
   </a>
+  <a href="https://stenciljs.com" target="_blank" rel="noreferrer">
+    <img src="https://plugins.jetbrains.com/files/15596/152746/icon/pluginIcon.png" alt="stencil.js" width="40" height="40" />
+  </a>
+  <a href="https://capacitorjs.com" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png" alt="capacitor" width="40" height="40" />
+  </a>
   <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40" />
   </a>
