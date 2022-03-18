@@ -24,7 +24,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidepassafaro" height="30" width="40" />
   </a>
   <a href="https://dev.to/davidepassafaro" target="blank">
-    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="davidepassafaro" height="30" width="40" />
+    <img align="center" src="https://camo.githubusercontent.com/80b13cf5dc17137e7d934d19919afeea64233f4b3e51823b62f3b4d61953c7f3/68747470733a2f2f74686570726163746963616c6465762e73332e616d617a6f6e6177732e636f6d2f692f64336f356c397969716676317a3234636e3179702e706e67" alt="davidepassafaro" height="30" width="40" />
   </a>
 </p>
 
