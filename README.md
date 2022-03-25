@@ -26,34 +26,33 @@
 [<img src=".logos/javascript.svg" alt="javascript" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src=".logos/typescript.svg" alt="typescript" width="40" height="40" />](https://www.typescriptlang.org)
 [<img src=".logos/html-5.svg" alt="html5" width="40" height="40" />](https://www.w3.org/html)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />](https://www.w3schools.com/css)
 [<img src=".logos/css-3.svg" alt="css3" width="40" height="40" />](https://www.w3schools.com/css)
 
 
 #### Frameworks and main tools:
 
-[<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />](https://angular.io)
+[<img src=".logos/angular.svg" alt="angular" width="40" height="40" />](https://angular.io)
 [<img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="40" height="40" />](https://rxjs.dev)
 [<img src="https://ngrx.io/assets/images/badge.svg" alt="ngrx" width="40" height="40" />](https://ngrx.io)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://ionicacademy.com/wp-content/uploads/2017/06/ionic-logo-portrait.png" alt="ionic" width="40" height="40" />](https://ionicframework.com)
+[<img src=".logos/ionic.svg" alt="ionic" width="40" height="40" />](https://ionicframework.com)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://plugins.jetbrains.com/files/15596/152746/icon/pluginIcon.svg" alt="stencil.js" width="40" height="40" />](https://stenciljs.com)
+[<img src=".logos/stencil.svg" alt="stencil.js" width="40" height="40" />](https://stenciljs.com)
 
 
 #### Tools & Libraries:
 
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />](https://git-scm.com)
+[<img src=".logos/git.svg" alt="git" width="40" height="40" />](https://git-scm.com)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://plugins.jetbrains.com/files/15000/146659/icon/pluginIcon.svg" alt="nx" width="40" height="40" />](https://nx.dev)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />](https://jestjs.io)
+[<img src=".logos/jest.svg" alt="jest" width="40" height="40" />](https://jestjs.io)
 [<img src=".logos/cypress.svg" alt="cypress" width="40" height="40" />](https://www.cypress.io)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />](https://getbootstrap.com)
+[<img src=".logos/bootstrap.svg" alt="bootstrap" width="40" height="40" />](https://getbootstrap.com)
 [<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />](https://www.chartjs.org)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://seeklogo.com/images/C/capacitor-logo-DF3634DD70-seeklogo.com.png" alt="capacitor" width="40" height="40" />](https://capacitorjs.com)
+[<img src=".logos/capacitor.svg" alt="capacitor" width="40" height="40" />](https://capacitorjs.com)
 [<img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40" />](https://cordova.apache.org)
 
 
@@ -61,7 +60,7 @@
 
 [<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />](https://www.arduino.cc)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />](https://www.adobe.com/products/xd.html)
+[<img src=".logos/adobe-xd.svg" alt="adobe-xd" width="40" height="40" />](https://www.adobe.com/products/xd.html)
 
 
 ***
