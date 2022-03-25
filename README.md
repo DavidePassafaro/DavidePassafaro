@@ -13,9 +13,9 @@
 
 ### Connect with me:
 
-[<img align="center" src=".logos/linkedin.svg" alt="davide-passafaro" width="40" height="30" />](https://linkedin.com/in/davide-passafaro)
-[<img align="center" src=".logos/medium.svg" alt="@davidepassafaro" width="40" height="40" />](https://medium.com/@davidepassafaro)
-[<img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="davidepassafaro" width="40" height="40" />](https://dev.to/davidepassafaro)
+[<img src=".logos/linkedin.svg" alt="davide-passafaro" width="40" height="40" />](https://linkedin.com/in/davide-passafaro)
+[<img src=".logos/medium.svg" alt="@davidepassafaro" width="40" height="40" />](https://medium.com/@davidepassafaro)
+[<img src=".logos/dev-to.svg" alt="davidepassafaro" width="40" height="40" />](https://dev.to/davidepassafaro)
 
 
 ***
@@ -32,8 +32,8 @@
 #### Frameworks and main tools:
 
 [<img src=".logos/angular.svg" alt="angular" width="40" height="40" />](https://angular.io)
-[<img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="40" height="40" />](https://rxjs.dev)
-[<img src="https://ngrx.io/assets/images/badge.svg" alt="ngrx" width="40" height="40" />](https://ngrx.io)
+[<img src=".logos/rxjs.svg" alt="rxjs" width="40" height="40" />](https://rxjs.dev)
+[<img src=".logos/ngrx.svg" alt="ngrx" width="40" height="40" />](https://ngrx.io)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src=".logos/ionic.svg" alt="ionic" width="40" height="40" />](https://ionicframework.com)
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,26 +44,27 @@
 
 [<img src=".logos/git.svg" alt="git" width="40" height="40" />](https://git-scm.com)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://plugins.jetbrains.com/files/15000/146659/icon/pluginIcon.svg" alt="nx" width="40" height="40" />](https://nx.dev)
+[<img src=".logos/nx.svg" alt="nx" width="40" height="40" />](https://nx.dev)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src=".logos/jest.svg" alt="jest" width="40" height="40" />](https://jestjs.io)
 [<img src=".logos/cypress.svg" alt="cypress" width="40" height="40" />](https://www.cypress.io)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src=".logos/bootstrap.svg" alt="bootstrap" width="40" height="40" />](https://getbootstrap.com)
-[<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />](https://www.chartjs.org)
+[<img src=".logos/chartjs.svg" alt="chartjs" width="40" height="40" />](https://www.chartjs.org)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src=".logos/capacitor.svg" alt="capacitor" width="40" height="40" />](https://capacitorjs.com)
-[<img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40" />](https://cordova.apache.org)
+[<img src=".logos/cordova.svg" alt="apachecordova" width="40" height="40" />](https://cordova.apache.org)
 
 
 #### Other:
 
-[<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />](https://www.arduino.cc)
+[<img src=".logos/arduino.svg" alt="arduino" width="40" height="40" />](https://www.arduino.cc)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src=".logos/adobe-xd.svg" alt="adobe-xd" width="40" height="40" />](https://www.adobe.com/products/xd.html)
 
 
 ***
+
 
 <!--
 <p>
