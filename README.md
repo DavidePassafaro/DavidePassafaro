@@ -14,7 +14,7 @@
 ### Connect with me:
 
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davide-passafaro" width="40" height="30" />](https://linkedin.com/in/davide-passafaro)
-[<img align="center" src=".logos/medium.png" alt="@davidepassafaro" width="40" height="40" />](https://medium.com/@davidepassafaro)
+[<img align="center" src=".logos/medium.svg" alt="@davidepassafaro" width="40" height="40" />](https://medium.com/@davidepassafaro)
 [<img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="davidepassafaro" width="40" height="40" />](https://dev.to/davidepassafaro)
 
 
