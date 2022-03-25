@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davide-passafaro" width="40" height="30" />](https://linkedin.com/in/davide-passafaro)
+[<img align="center" src=".logos/linkedin.svg" alt="davide-passafaro" width="40" height="30" />](https://linkedin.com/in/davide-passafaro)
 [<img align="center" src=".logos/medium.svg" alt="@davidepassafaro" width="40" height="40" />](https://medium.com/@davidepassafaro)
 [<img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="davidepassafaro" width="40" height="40" />](https://dev.to/davidepassafaro)
 
@@ -23,10 +23,11 @@
 
 #### Languages:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />](https://www.typescriptlang.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />](https://www.w3.org/html)
+[<img src=".logos/javascript.svg" alt="javascript" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src=".logos/typescript.svg" alt="typescript" width="40" height="40" />](https://www.typescriptlang.org)
+[<img src=".logos/html-5.svg" alt="html5" width="40" height="40" />](https://www.w3.org/html)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />](https://www.w3schools.com/css)
+[<img src=".logos/css-3.svg" alt="css3" width="40" height="40" />](https://www.w3schools.com/css)
 
 
 #### Frameworks and main tools:
