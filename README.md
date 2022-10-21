@@ -21,16 +21,13 @@
 ***
 
 
-#### Languages:
+#### Languages, frameworks and tools:
 
 [<img src=".logos/javascript.svg" alt="javascript" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src=".logos/typescript.svg" alt="typescript" width="40" height="40" />](https://www.typescriptlang.org)
 [<img src=".logos/html-5.svg" alt="html5" width="40" height="40" />](https://www.w3.org/html)
 [<img src=".logos/css-3.svg" alt="css3" width="40" height="40" />](https://www.w3schools.com/css)
-
-
-#### Frameworks and main tools:
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src=".logos/angular.svg" alt="angular" width="40" height="40" />](https://angular.io)
 [<img src=".logos/rxjs.svg" alt="rxjs" width="40" height="40" />](https://rxjs.dev)
 [<img src=".logos/ngrx.svg" alt="ngrx" width="40" height="40" />](https://ngrx.io)
