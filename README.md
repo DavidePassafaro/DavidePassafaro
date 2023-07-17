@@ -31,6 +31,7 @@
 [<img src=".logos/angular.svg" alt="angular" width="40" height="40" />](https://angular.io)
 [<img src=".logos/rxjs.svg" alt="rxjs" width="40" height="40" />](https://rxjs.dev)
 [<img src=".logos/ngrx.svg" alt="ngrx" width="40" height="40" />](https://ngrx.io)
+[<img src=".logos/react.svg" alt="react" width="40" height="40" />](https://react.dev)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src=".logos/ionic.svg" alt="ionic" width="40" height="40" />](https://ionicframework.com)
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,8 +48,10 @@
 [<img src=".logos/cypress.svg" alt="cypress" width="40" height="40" />](https://www.cypress.io)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src=".logos/bootstrap.svg" alt="bootstrap" width="40" height="40" />](https://getbootstrap.com)
+[<img src=".logos/tailwind.svg" alt="tailwind" width="40" height="40" />](https://tailwindcss.com)
 [<img src=".logos/chartjs.svg" alt="chartjs" width="40" height="40" />](https://www.chartjs.org)
 &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src=".logos/vite-js.svg" alt="vite-js" width="40" height="40" />](https://vitejs.dev)
 [<img src=".logos/capacitor.svg" alt="capacitor" width="40" height="40" />](https://capacitorjs.com)
 [<img src=".logos/cordova.svg" alt="apachecordova" width="40" height="40" />](https://cordova.apache.org)
 
