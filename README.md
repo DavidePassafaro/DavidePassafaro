@@ -49,7 +49,7 @@
 [<img src=".logos/cypress.svg" alt="cypress" width="40" height="40" />](https://www.cypress.io)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src=".logos/bootstrap.svg" alt="bootstrap" width="40" height="40" />](https://getbootstrap.com)
-[<img src=".logos/tailwind.svg" alt="tailwind" width="40" height="40" />](https://tailwindcss.com)
+[<img src=".logos/tailwind-css.svg" alt="tailwind-css" width="40" height="40" />](https://tailwindcss.com)
 [<img src=".logos/chartjs.svg" alt="chartjs" width="40" height="40" />](https://www.chartjs.org)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src=".logos/vite-js.svg" alt="vite-js" width="40" height="40" />](https://vitejs.dev)
