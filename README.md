@@ -21,7 +21,7 @@
 ***
 
 
-#### Languages, frameworks and tools:
+#### Languages, frameworks and development tools:
 
 [<img src=".logos/javascript.svg" alt="javascript" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src=".logos/typescript.svg" alt="typescript" width="40" height="40" />](https://www.typescriptlang.org)
@@ -31,6 +31,7 @@
 [<img src=".logos/angular.svg" alt="angular" width="40" height="40" />](https://angular.io)
 [<img src=".logos/rxjs.svg" alt="rxjs" width="40" height="40" />](https://rxjs.dev)
 [<img src=".logos/ngrx.svg" alt="ngrx" width="40" height="40" />](https://ngrx.io)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src=".logos/react.svg" alt="react" width="40" height="40" />](https://react.dev)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src=".logos/ionic.svg" alt="ionic" width="40" height="40" />](https://ionicframework.com)
@@ -38,7 +39,7 @@
 [<img src=".logos/stencil.svg" alt="stencil.js" width="40" height="40" />](https://stenciljs.com)
 
 
-#### Tools & Libraries:
+#### Other tools & Libraries:
 
 [<img src=".logos/git.svg" alt="git" width="40" height="40" />](https://git-scm.com)
 &nbsp;&nbsp;&nbsp;&nbsp;
