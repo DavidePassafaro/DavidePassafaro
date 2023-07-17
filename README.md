@@ -33,6 +33,7 @@
 [<img src=".logos/ngrx.svg" alt="ngrx" width="40" height="40" />](https://ngrx.io)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src=".logos/react.svg" alt="react" width="40" height="40" />](https://react.dev)
+[<img src=".logos/zustand.png" alt="zustand" width="40" height="40" />](https://docs.pmnd.rs/zustand)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src=".logos/ionic.svg" alt="ionic" width="40" height="40" />](https://ionicframework.com)
 &nbsp;&nbsp;&nbsp;&nbsp;
