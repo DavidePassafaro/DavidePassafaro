@@ -1,27 +1,27 @@
-<!-- Initially made with: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<h2 align="center">Hi, I'm Davide Passafaro, nice to meet you 👋</h2>
 
-<h1 align="center">Hi 👋, I'm Davide Passafaro</h1>
-<h3 align="center">A passionate frontend developer from Italy and a speaker of Angular Rome community</h3>
+I love frontend development, specially Angular, with a burning passion for creating super cool design on web applications.<br/>
+If it's a web app it can be also a nice mobile app, trust me.
 
-<br/>
+I really enjoy the tech communities world and I'm trying to be part of it as much as I can.
 
-- 🔭 I’m currently working on **ConTe.it**
-- 🌱 I’m currently learning **Nx and React**
-- 💬 Ask me about **Angular, Ionic, Stencil.js, RxJs and NgRx**
-- 📫 How to reach me **davide.passafaro@gmail.com**
+When i shut down my computer I like to play board games and archery, not both together till now. I also like escape rooms and memes. 
 
-
-### Connect with me:
+#### Connect with me:
 
 [<img src=".logos/linkedin.svg" alt="davide-passafaro" width="40" height="40" />](https://linkedin.com/in/davide-passafaro)
 [<img src=".logos/medium.svg" alt="@davidepassafaro" width="40" height="40" />](https://medium.com/@davidepassafaro)
-[<img src=".logos/dev-to.svg" alt="davidepassafaro" width="40" height="40" />](https://dev.to/davidepassafaro)
+<!-- [<img src=".logos/dev-to.svg" alt="davidepassafaro" width="40" height="40" />](https://dev.to/davidepassafaro) -->
+
+### My latest Medium articles:
+
+[![Davide Passafaro](https://github-readme-medium-gules.vercel.app/?username=davidepassafaro&limit=1)](https://medium.com/@davidepassafaro)
 
 
 ***
 
 
-#### Languages, frameworks and development tools:
+### Languages, frameworks and development tools:
 
 [<img src=".logos/javascript.svg" alt="javascript" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src=".logos/typescript.svg" alt="typescript" width="40" height="40" />](https://www.typescriptlang.org)
