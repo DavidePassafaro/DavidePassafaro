@@ -1,5 +1,11 @@
 <h2 align="center">Hi, I'm Davide Passafaro, nice to meet you 👋</h2>
 
+<div align="center">
+  
+  [<img src="https://miro.medium.com/v2/resize:fit:3168/1*86tRDH9xahuoweujJdEMUg.png" alt="@davidepassafaro" width="600" height="150" />](https://medium.com/@davidepassafaro)
+  
+</div>
+
 I love frontend development with a burning passion for creating super cool design on web applications.
 I really enjoy being part of tech communities and attend tech conferences to exchange thoughts and experiences.
 
@@ -9,8 +15,9 @@ Once I turn off my computer my interests shift to play board games, practicing a
 
 #### Connect with me:
 
-[<img src=".logos/linkedin.svg" alt="davide-passafaro" width="40" height="40" />](https://linkedin.com/in/davide-passafaro)
-[<img src=".logos/medium.svg" alt="@davidepassafaro" width="40" height="40" />](https://medium.com/@davidepassafaro)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" alt="davide-passafaro" width="138.3" height="40" style="background-color: #15487d; border-radius: 5px;" />](https://linkedin.com/in/davide-passafaro)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://miro.medium.com/v2/resize:fit:8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="@davidepassafaro" width="161.14" height="40" />](https://medium.com/@davidepassafaro)
 <!-- [<img src=".logos/dev-to.svg" alt="davidepassafaro" width="40" height="40" />](https://dev.to/davidepassafaro) -->
 
 
