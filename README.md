@@ -1,17 +1,18 @@
 <h2 align="center">Hi, I'm Davide Passafaro, nice to meet you 👋</h2>
 
-I love frontend development, specially Angular, with a burning passion for creating super cool design on web applications.<br/>
-If it's a web app it can be also a nice mobile app, trust me.
+I love frontend development with a burning passion for creating super cool design on web applications.
+I really enjoy being part of tech communities and attend tech conferences to exchange thoughts and experiences.
 
-I really enjoy the tech communities world and I'm trying to be part of it as much as I can.
+Once I turn off my computer my interests shift to play board games, practicing archery and solving escape rooms.
 
-When i shut down my computer I like to play board games and archery, not both together till now. I also like escape rooms and memes. 
+<br/>
 
 #### Connect with me:
 
 [<img src=".logos/linkedin.svg" alt="davide-passafaro" width="40" height="40" />](https://linkedin.com/in/davide-passafaro)
 [<img src=".logos/medium.svg" alt="@davidepassafaro" width="40" height="40" />](https://medium.com/@davidepassafaro)
 <!-- [<img src=".logos/dev-to.svg" alt="davidepassafaro" width="40" height="40" />](https://dev.to/davidepassafaro) -->
+
 
 ### My latest Medium articles:
 
@@ -67,8 +68,8 @@ When i shut down my computer I like to play board games and archery, not both to
 
 ***
 
-#### GitHub stats:
 
+#### GitHub stats:
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidepassafaro&show_icons=true&locale=en&theme=dark" alt="davidepassafaro" />
