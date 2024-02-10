@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [<img src="https://miro.medium.com/v2/resize:fit:3168/1*86tRDH9xahuoweujJdEMUg.png" alt="@davidepassafaro" width="600" height="150" />](https://medium.com/@davidepassafaro)
+  [<img src="https://miro.medium.com/v2/resize:fit:3168/1*86tRDH9xahuoweujJdEMUg.png" alt="@davidepassafaro" width="600" />](https://medium.com/@davidepassafaro)
   
 </div>
 
