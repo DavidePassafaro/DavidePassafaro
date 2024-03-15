@@ -23,7 +23,7 @@ Once I turn off my computer my interests shift to play board games, practicing a
 
 ### My latest Medium articles:
 
-[![Davide Passafaro](https://github-readme-medium-gules.vercel.app/?username=davidepassafaro&limit=5)](https://medium.com/@davidepassafaro)
+[![Davide Passafaro](https://github-readme-medium-gules.vercel.app/?username=davidepassafaro&limit=6)](https://medium.com/@davidepassafaro)
 
 
 ***
