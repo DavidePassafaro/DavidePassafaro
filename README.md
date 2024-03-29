@@ -11,7 +11,6 @@ I really enjoy being part of tech communities and attend tech conferences to exc
 
 Once I turn off my computer my interests shift to play board games, practicing archery and solving escape rooms.
 
-<br/>
 
 #### Connect with me:
 
