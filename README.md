@@ -71,11 +71,8 @@ Once I turn off my computer my interests shift to play board games, practicing a
 ---
 
 ### GitHub stats:
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidepassafaro&show_icons=true&locale=en&theme=dark" alt="davidepassafaro" />
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidepassafaro&show_icons=true&locale=en&layout=compact&theme=dark" alt="davidepassafaro" />
-</p>
+| My Github Stats | Most Used Languages |
+| --- | --- |
+| ![Davide's github stats](https://github-readme-stats.vercel.app/api?username=davidepassafaro&show_icons=true&locale=en&theme=dark) | ![Davide's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=davidepassafaro&show_icons=true&locale=en&layout=compact&theme=dark) |
 
 </div>
