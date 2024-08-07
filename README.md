@@ -4,6 +4,8 @@
 
 [<img src="https://miro.medium.com/v2/resize:fit:3168/1*86tRDH9xahuoweujJdEMUg.png" alt="@davidepassafaro" width="600" />](https://medium.com/@davidepassafaro)
 
+[![](https://visitcount.itsvg.in/api?id=DavidePassafaro&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
 I love frontend development with a burning passion for creating super cool design on web applications.<br>
 I really enjoy being part of tech communities and attend tech conferences to exchange thoughts and experiences.
 
