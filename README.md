@@ -64,12 +64,6 @@ Once I turn off my computer my interests shift to play board games, practicing a
 [<img src=".logos/capacitor.svg" alt="capacitor" width="40" height="40" />](https://capacitorjs.com)
 [<img src=".logos/cordova.svg" alt="apachecordova" width="40" height="40" />](https://cordova.apache.org)
 
-### Other:
-
-[<img src=".logos/arduino.svg" alt="arduino" width="40" height="40" />](https://www.arduino.cc)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src=".logos/adobe-xd.svg" alt="adobe-xd" width="40" height="40" />](https://www.adobe.com/products/xd.html)
-
 ---
 
 ### GitHub stats:
