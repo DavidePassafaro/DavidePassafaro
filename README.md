@@ -32,20 +32,37 @@ Outside of work, I love playing board games or practicing archery. I’m also a 
 
 </div>
 
-### My conference sessions in 2024:
+### My conference sessions in 2025:
 
-[<img src=".assets/conferences/angular-tiny-conf-2024.jpg" alt="Angular Tiny Conf 2024" width="150" height="150" />](https://www.youtube.com/live/nVcerb1tOUA?si=cww0p0AzzMvvPw8U&t=16239)
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/codemotion-rome-2025.jpeg" alt="Codemotion Rome 2025" height="150" />](https://conferences.codemotion.com/rome2025/it/home-ita)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src=".assets/conferences/codemotion-milan-2024.png" alt="Codemotion Milan 2024 - Angular Tech Expert" width="150" height="150" />](https://conferences.codemotion.com/milan2024)
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-vicenza-2025.jpeg" alt="DevFest Vicenza 2025" height="150" />](https://devfestvicenza.it)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src=".assets/conferences/devfest-bari-2024.png" alt="DevFest Bari 2024" width="150" height="150" />](https://gdg.community.dev/events/details/google-gdg-bari-presents-devfest-bari-2024/)
-&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/ngrome-2025.png" alt="NgRome Conference 2025" height="150" />](https://ngrome.io)
 
-[<img src=".assets/conferences/angularday-2024.jpg" alt="angularday 2024" width="150" height="150" />](https://2024.angularday.it/talks_speakers/#davide-passafaro)
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-lecce-2025.png" alt="DevFest Lecce 2025" height="150" />](https://gdg.community.dev/events/details/google-gdg-lecce-presents-devfest-lecce-2025/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src=".assets/conferences/devfest-pescara-2024.jpg" alt="DevFest Pescara 2024" width="150" height="150" />](https://gdg.community.dev/events/details/google-gdg-pescara-presents-back-to-devfest-pescara-part-2024)
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-campobasso-2025.jpeg" alt="DevFest Campobasso 2025" height="150" />](https://gdg.community.dev/events/details/google-gdg-campobasso-presents-devfest-campobasso-2025/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src=".assets/conferences/devfest-catania-2024.jpg" alt="DevFest Catania 2024" width="150" height="150" />](https://gdg.community.dev/events/details/google-gdg-catania-presents-devfest-catania-2024-revolution-ai/)
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/cometocode-2025.jpeg" alt="Come To Code 2025" height="150" />](https://www.cometocode.it)
+
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-modena-2025.jpeg" alt="DevFest Modena 2025" height="150" />](https://dev.events/conferences/dev-fest-modena-2025-bhvrga4g)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-modena-2025-workshop.jpeg" alt="DevFest Modena 2025" height="150" />](https://dev.events/conferences/dev-fest-modena-2025-bhvrga4g)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/datev-coding-festival-2025.png" alt="DATEV Coding Festival 2025" height="150" />]()
+
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-venezia-2025.jpeg" alt="DevFest Venezia 2025" height="150" />](https://gdg.community.dev/gdg-venezia/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/codemotion-milan-2025-tech-expert.png" alt="Codemotion Milan 2025" height="150" />](https://conferences.codemotion.com/milan2025/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-pescara-2025.jpeg" alt="DevFest Pescara 2025" height="150" />](https://gdg.community.dev/events/details/google-gdg-pescara-presents-devfest-pescara-2025/)
+
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-hamburg-2025.jpeg" alt="DevFest Hamburg 2025" height="150" />](https://hamburg.devfest.de/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-alps-2025.webp" alt="DevFest Alps 2025" height="150" />](https://gdg.community.dev/events/details/google-gdg-torino-presents-devfest-alps-2025/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-bari-2025.jpeg" alt="DevFest Bari 2025" height="150" />](https://bari.devfest.it/)
 
 ---
 
