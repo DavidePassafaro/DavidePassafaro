@@ -1,114 +1,178 @@
 <div align="center">
-  
-## Hi, I'm Davide Passafaro, nice to meet you 👋
 
-[<img src=".assets/profile/profile-banner.png" alt="@davidepassafaro" />](https://medium.com/@davidepassafaro)
+![Profile Banner](.assets/profile/gde-banner.png)
 
-[![](https://visitcount.itsvg.in/api?id=DavidePassafaro&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+# Hi there, I'm Davide Passafaro 👋
 
-As a Senior Frontend Engineer, I lead two developer communities in Rome: GDG Roma Città and Angular Roma.<br>
-I am passionate about contributing to the tech community as a writer and speaker.
+### Senior Frontend Engineer & Google Developer Expert in Angular
 
-Specializing in Angular, I also have extensive experience in mobile and desktop app development using Capacitor and Electron.<br>
-Over the years, I’ve built high-performing applications leveraging technologies like Nx, NgRx, and NGXS.  
+<a href="https://linkedin.com/in/davide-passafaro"><img src=".assets/profile/linkedin-button.png" height="45" alt="LinkedIn" /></a>
+&nbsp;
+&nbsp;
+<a href="https://medium.com/@davidepassafaro"><img src=".assets/profile/medium-button.png" height="45" alt="Medium" /></a>
 
-Outside of work, I love playing board games or practicing archery. I’m also a fan of escape rooms and enjoy creating funny memes.
+<br>
+<br>
 
-<div align="center">
+I am a **Senior Frontend Engineer** and **GDE in Angular** with a passion for architecting scalable, high-performance applications.  
+Currently leading developer communities at **GDG Roma Città** and **Angular Roma**.
 
-### Connect with me:
+While my core expertise lies in the **Angular ecosystem**, I am actively expanding my architectural horizons into **Node.js** and **React** to build comprehensive full-stack solutions.
 
-[<img src=".assets/profile/linkedin-button.png" alt="Follow me on Linkedin" width="138.3" height="40" />](https://linkedin.com/in/davide-passafaro)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src=".assets/profile/medium-button.png" alt="Read my Medium.com articles" width="161.14" height="40" />](https://medium.com/@davidepassafaro)
-
-<!-- [<img src=".assets/devto-button.png" alt="Read my Dev.to articles" width="40" height="40" />](https://dev.to/davidepassafaro) -->
-
-### Read my latest Medium articles:
-
-<!-- [![](https://github-readme-medium-gules.vercel.app/?username=davidepassafaro&limit=4)](https://medium.com/@davidepassafaro) -->
-
-[![](.assets/profile/medium-articles.svg)](https://medium.com/@davidepassafaro)
-
-</div>
-
-### My conference sessions in 2025:
-
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/codemotion-rome-2025.jpeg" alt="Codemotion Rome 2025" height="150" />](https://conferences.codemotion.com/rome2025/it/home-ita)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-vicenza-2025.jpeg" alt="DevFest Vicenza 2025" height="150" />](https://devfestvicenza.it)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/ngrome-2025.png" alt="NgRome Conference 2025" height="150" />](https://ngrome.io)
-
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-lecce-2025.png" alt="DevFest Lecce 2025" height="150" />](https://gdg.community.dev/events/details/google-gdg-lecce-presents-devfest-lecce-2025/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-campobasso-2025.jpeg" alt="DevFest Campobasso 2025" height="150" />](https://gdg.community.dev/events/details/google-gdg-campobasso-presents-devfest-campobasso-2025/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/cometocode-2025.jpeg" alt="Come To Code 2025" height="150" />](https://www.cometocode.it)
-
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-modena-2025.jpeg" alt="DevFest Modena 2025" height="150" />](https://dev.events/conferences/dev-fest-modena-2025-bhvrga4g)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-modena-2025-workshop.jpeg" alt="DevFest Modena 2025" height="150" />](https://dev.events/conferences/dev-fest-modena-2025-bhvrga4g)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/datev-coding-festival-2025.png" alt="DATEV Coding Festival 2025" height="150" />]()
-
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-venezia-2025.jpeg" alt="DevFest Venezia 2025" height="150" />](https://gdg.community.dev/gdg-venezia/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/codemotion-milan-2025-tech-expert.png" alt="Codemotion Milan 2025" height="150" />](https://conferences.codemotion.com/milan2025/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-pescara-2025.jpeg" alt="DevFest Pescara 2025" height="150" />](https://gdg.community.dev/events/details/google-gdg-pescara-presents-devfest-pescara-2025/)
-
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-hamburg-2025.jpeg" alt="DevFest Hamburg 2025" height="150" />](https://hamburg.devfest.de/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-alps-2025.webp" alt="DevFest Alps 2025" height="150" />](https://gdg.community.dev/events/details/google-gdg-torino-presents-devfest-alps-2025/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-bari-2025.jpeg" alt="DevFest Bari 2025" height="150" />](https://bari.devfest.it/)
+<br>
 
 ---
 
-### Languages, frameworks and tools I work with:
+<br>
 
-[<img src=".assets/logos/angular.webp" alt="Angular" width="40" height="40" />](https://angular.io)
-[<img src=".assets/logos/rxjs.svg" alt="RxJs" width="40" height="40" />](https://rxjs.dev)
-[<img src=".assets/logos/ngrx.png" alt="NgRx" width="40" height="40" />](https://ngrx.io)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src=".assets/logos/nx.svg" alt="Nx" width="40" height="40" />](https://nx.dev)
-[<img src=".assets/logos/capacitor.svg" alt="Capacitor" width="40" height="40" />](https://capacitorjs.com)
-[<img src=".assets/logos/electron.svg" alt="Electron" width="40" height="40" />](https://www.electronjs.org)
+## 🛠️ Technical Arsenal
 
-[<img src=".assets/logos/javascript.svg" alt="Javascript" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src=".assets/logos/typescript.svg" alt="Typescript" width="40" height="40" />](https://www.typescriptlang.org)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src=".assets/logos/html-5.svg" alt="HTML 5" width="40" height="40" />](https://www.w3.org/html)
-[<img src=".assets/logos/css-3.svg" alt="CSS 3" width="40" height="40" />](https://www.w3schools.com/css)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src=".assets/logos/git.svg" alt="Git" width="40" height="40" />](https://git-scm.com)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=angular" width="48" height="48" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=rxjs" width="48" height="48" alt="RxJS" />
+      <br>RxJS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=ngrx" width="48" height="48" alt="NgRx" />
+      <br>NgRx
+    </td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+     <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=expressjs" width="48" height="48" alt="Express.js" />
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+  </tr>
+</table>
 
-### Other technologies I worked with:
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
-[<img src=".assets/logos/react.svg" alt="React" width="40" height="40" />](https://react.dev)
-[<img src=".assets/logos/zustand.png" alt="Zustand" width="40" height="40" />](https://docs.pmnd.rs/zustand)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src=".assets/logos/ionic.svg" alt="Ionic" width="40" height="40" />](https://ionicframework.com)
-[<img src=".assets/logos/stencil.png" alt="Stencil.js" width="40" height="40" />](https://stenciljs.com)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src=".assets/logos/jest.svg" alt="Jest" width="40" height="40" />](https://jestjs.io)
-[<img src=".assets/logos/cypress.svg" alt="Cypress" width="40" height="40" />](https://www.cypress.io)
-
-[<img src=".assets/logos/vite-js.svg" alt="Vite" width="40" height="40" />](https://vitejs.dev)
-[<img src=".assets/logos/cordova.svg" alt="Apache Cordova" width="40" height="40" />](https://cordova.apache.org)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src=".assets/logos/bootstrap.svg" alt="Bootstrap" width="40" height="40" />](https://getbootstrap.com)
-[<img src=".assets/logos/tailwind-css.svg" alt="Tailwind CSS" width="40" height="40" />](https://tailwindcss.com)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src=".assets/logos/chartjs.svg" alt="ChartJs" width="40" height="40" />](https://www.chartjs.org)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=capacitor" width="48" height="48" alt="Capacitor" />
+      <br>Capacitor
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=electron" width="48" height="48" alt="Electron" />
+      <br>Electron
+    </td>
+    <td align="center" width="48"></td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=ionic" width="48" height="48" alt="Ionic" />
+      <br>Ionic
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=storybook" width="48" height="48" alt="Storybook" />
+      <br>Storybook
+    </td>
+    <td align="center" width="48"></td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=jest" width="48" height="48" alt="Jest" />
+      <br>Jest
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=cypress" width="48" height="48" alt="Cypress" />
+      <br>Cypress
+    </td>
+  </tr>
+</table>
 
 ---
 
-### GitHub stats:
+<!-- <table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=nx" width="48" height="48" alt="Nx" />
+      <br>Nx
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=cordova" width="48" height="48" alt="Cordova" />
+      <br>Cordova
+    </td>
+    <td align="center" width="48"></td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=ionic" width="48" height="48" alt="Ionic" />
+      <br>Ionic
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=stenciljs" width="48" height="48" alt="Stencil.js" />
+      <br>Stencil.js
+    </td>
+    <td align="center" width="48"></td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=tiptap" width="48" height="48" alt="TipTap" />
+      <br>TipTap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=chartjs" width="48" height="48" alt="ChartJs" />
+      <br>ChartJs
+    </td>
+    <td align="center" width="96">
+      <img src="https://skills.syvixor.com/api/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
 
-| My Github Stats                                                                                                                    | Most Used Languages                                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Davide's github stats](https://github-readme-stats.vercel.app/api?username=davidepassafaro&show_icons=true&locale=en&theme=dark) | ![Davide's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=davidepassafaro&show_icons=true&locale=en&layout=compact&theme=dark) |
+--- -->
+
+<br>
+
+## ✍️ Latest Stories on Medium
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
+---
 
 </div>
