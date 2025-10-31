@@ -60,7 +60,7 @@ Outside of work, I love playing board games or practicing archery. I’m also a 
 
 [<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-hamburg-2025.jpeg" alt="DevFest Hamburg 2025" height="150" />](https://hamburg.devfest.de/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-alps-2025.webp" alt="DevFest Alps 2025" height="150" />](https://gdg.community.dev/events/details/google-gdg-torino-presents-devfest-alps-2025/)
+[<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-alps-2025.jpeg" alt="DevFest Alps 2025" height="150" />](https://gdg.community.dev/events/details/google-gdg-torino-presents-devfest-alps-2025/)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://www.davidepassafaro.it/assets/images/conference-badges/2025/devfest-bari-2025.jpeg" alt="DevFest Bari 2025" height="150" />](https://bari.devfest.it/)
 
