@@ -169,6 +169,11 @@ While my core expertise lies in the **Angular ecosystem**, I am actively expandi
 ## ✍️ Latest Stories on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Angular Development with Google Antigravity](https://medium.com/@davidepassafaro/optimizing-angular-development-with-google-antigravity-3585495ce120?source=rss-2dd7ea370dde------2)
+- [Angular Meets Generative AI: Best Practices Made Easy](https://medium.com/@davidepassafaro/angular-meets-generative-ai-best-practices-made-easy-2641fbe643ed?source=rss-2dd7ea370dde------2)
+- [Angular Deep Signal: Modeling State in Depth](https://medium.com/@davidepassafaro/angular-deep-signal-modeling-state-in-depth-1dc2ea44e056?source=rss-2dd7ea370dde------2)
+- [Exploring Angular httpResource: a new approach to async data fetching](https://medium.com/@davidepassafaro/exploring-angular-httpresource-a-new-approach-to-async-data-fetching-9abd28b5df70?source=rss-2dd7ea370dde------2)
+- [Angular resource&lpar;&rpar; and rxResource&lpar;&rpar; APIs: what you need to know](https://medium.com/@davidepassafaro/angular-resource-and-rxresource-apis-what-you-need-to-know-aa1c178e43e9?source=rss-2dd7ea370dde------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
